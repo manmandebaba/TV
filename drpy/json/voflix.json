@@ -1,0 +1,82 @@
+{
+  "author": "220813",
+  "name": "voflix HD",
+  // ����վ����
+  "url": "https://www.voflix.com",
+  // ������ö����Ǹ�����վ������Ҫ����ͷʱ���õ�
+  "User": "��",
+  // ��ҳչʾ
+  "shouye": "1",
+  // ��վ�б��ķ���
+  "fenlei": "��Ӱ$/show/1--------#���Ӿ�$/show/2--------#����$/show/3--------#����$/show/4--------#������$/show/13--------#ŷ����$/show/16--------#����$/show/4-�й�-------#����$/show/4-�ձ�-------",
+  //"fenlei": "��Ӱ$/show/1--------#���Ӿ�$/show/2--------#����$/show/3--------#����$/show/4--------#����$/show/6--------#ϲ��$/show/7--------#����$/show/8--------#�ƻ�$/show/9--------#�ֲ�$/show/10--------#����$/show/11--------#ս��$/show/12--------#����$/show/23--------#������$/show/13--------#��̨��$/show/14--------#�պ���$/show/15--------#ŷ����$/show/16--------#��¼Ƭ$/show/21--------#̩����$/show/24--------",
+  // ��վ��ҳ���ӵĺ�׺
+  "houzhui": "---.html",
+  // ��ȡ���б������Ƿ���Ҫ���ν�ȡ��0����Ҫ��1��Ҫ
+  "shifouercijiequ": "1",
+  // ���ν�ȡǰ
+  "jiequqian": "odule-page",
+  // ���ν�ȡ��
+  "jiequhou": "<div id=\"page\">",
+  // ��ȡ���б������ǰ�ؼ���,��ȡ�Ĺؼ����� " ���� \ ����ת��
+  "jiequshuzuqian": "<a",
+  // �б�����ĺ�ؼ���
+  "jiequshuzuhou": "no-referrer",
+  // �б�����Դ��ͼƬǰ,��ؼ���,��ȡ�Ĺؼ����� " ���� \ ����ת��
+  "tupianqian": "data-original=\"",
+  "tupianhou": "\"",
+  //�б�����Դ�ı���ǰ,��ؼ���,��ȡ�Ĺؼ����� " ���� \ ����ת��
+  "biaotiqian": "title=\"",
+  "biaotihou": "\"",
+  // �б�����Դ������ҳ��ת����ǰ�ؼ���,��ȡ�Ĺؼ����� " ���� \ ����ת��
+  "lianjieqian": "href=\"",
+  "lianjiehou": "\"",
+  // �������ֻ������ö���������վ��������ƻ��CMS�����������ǹ̶���
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  // ����ҳӰƬ��ת����ҳ���м��ʶ���Ӳ���
+  "sousuohouzhui": "/detail/",
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "��",
+  "ssjiequhou": "��",
+  "ssjiequshuzuqian": "��",
+  "ssjiequshuzuhou": "��",
+  "sstupianqian": "��",
+  "sstupianhou": "��",
+  "ssbiaotiqian": "��",
+  "ssbiaotihou": "��",
+  "sslianjieqian": "��",
+  "sslianjiehou": "��",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "��",
+  "bfjiequhou": "��",
+  // ���Ž�ȡ���б������ǰ,��ؼ���
+  "bfjiequshuzuqian": "class=\"module-list",
+  "bfjiequshuzuhou": "</div>",
+  // ����ҳ״̬,����,����,���ؼ���
+  "zhuangtaiqian": "���£�</span>",
+  "zhuangtaihou": "</div>",
+  "daoyanqian": "���ݣ�</span>",
+  "daoyanhou": "</div>",
+  "zhuyanqian": "���ݣ�</span>",
+  "zhuyanhou": "</div>",
+  "juqingqian": "class=\"module-info-introduction-content\"",
+  "juqinghou": "</div>",
+  // ��ȡ�Ĳ����б������Ƿ���Ҫ���ν�ȡ��0����Ҫ��1��Ҫ
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "��",
+  "bfyjiequhou": "��",
+  // ���ž缯����ǰ,��ؼ���
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  // ���ž缯����ǰ,��ؼ���
+  "bfbiaotiqian": "<span>",
+  "bfbiaotihou": "</span>",
+  // ���ž缯����ǰ,��ؼ���
+  "bflianjieqian": "href=\"",
+  "bflianjiehou": "\""
+}
